@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------
+Copyright (c) 2023-2025, Inertial Simulation LLC.
+All rights reserved.
+Do not use or redistribute without permission.
+Email: info@inertialsim.com
+-----------------------------------------------------------------------------
+
+# Third-party data licensing
+The data provided in `kitti_data` subdirectory is a re-organized but
+otherwise unmodified subset of the original available at:
+https://www.cvlibs.net/datasets/kitti/.  It is redistributed under the
+original [CC BY-NC-SA
+3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) license.
+
+The data provided in the `nesc_data` subdirectory is an unmodified subset of
+the original available at: https://nescacademy.nasa.gov/flightsim/2015.  It
+is in the public domain.
