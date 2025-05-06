@@ -8,6 +8,7 @@ __pycache__
 #-------------
 # DEVELOPMENT
 #-------------
+.venv*
 .vscode
 .VSCodeCounter
 tmp/

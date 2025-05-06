@@ -15,4 +15,5 @@
 3. [Allan variance](./allan_variance.ipynb)
 4. [Robot arm](./robot_arm.ipynb)
 5. [Aircraft simulation](./nesc_aircraft.ipynb)
-6. [Driving logs](./kitti_car.ipynb)
+6. [Automotive testing](./double_lane_change.ipynb)
+7. [Driving logs](./kitti_car.ipynb)
