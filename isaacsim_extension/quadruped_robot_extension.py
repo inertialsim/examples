@@ -20,8 +20,7 @@ from isaacsim.gui.components.ui_utils import (
 from isaacsim.examples.interactive.base_sample import BaseSampleUITemplate
 from isaacsim.examples.interactive.user_examples import QuadrupedImuExample
 
-
-from inertialsim.devices import *
+from inertialsim.devices.imu import *
 
 
 class QuadrupedImuExampleExtension(omni.ext.IExt):
