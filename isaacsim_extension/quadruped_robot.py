@@ -77,7 +77,7 @@ class QuadrupedImuExample(BaseSample):
         )
 
         # Set standard gravity
-        self._world.get_physics_context().set_gravity(-Gravity.standard_magnitude())
+        self._world.get_physics_context().set_gravity(-Gravity.standard_magnitude)
 
         # Add an Isaac Sim IMU which simply provides the angular rate and
         # specific force from the physics engine.  No filtering or IMU modeling
